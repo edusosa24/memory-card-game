@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/memory-card-game/static/css/main.f2483ab7.css",
+    "main.js": "/memory-card-game/static/js/main.47d672f9.js",
+    "static/media/background.jpg": "/memory-card-game/static/media/background.4336ecd8df4194ae4e34.jpg",
+    "static/media/SliferTheSkyDragon.png": "/memory-card-game/static/media/SliferTheSkyDragon.375f735263a79f6a5994.png",
+    "static/media/ToonDarkMagicianGirl.png": "/memory-card-game/static/media/ToonDarkMagicianGirl.3c7033f5d4f912ed9468.png",
+    "static/media/DarkMagician.png": "/memory-card-game/static/media/DarkMagician.2f89f6635eecd04a0502.png",
+    "static/media/ToonDarkMagician.png": "/memory-card-game/static/media/ToonDarkMagician.b06146b41d1823f01589.png",
+    "static/media/TheWingedDragonOfRa.png": "/memory-card-game/static/media/TheWingedDragonOfRa.72371a69a3441f60edab.png",
+    "static/media/BlueEyesToonDragon.png": "/memory-card-game/static/media/BlueEyesToonDragon.3ed6e4f0a8ca757dfae7.png",
+    "static/media/BlueEyesWhiteDragon.png": "/memory-card-game/static/media/BlueEyesWhiteDragon.439450d1f2afa4d21f72.png",
+    "static/media/RedEyesToonDragon.png": "/memory-card-game/static/media/RedEyesToonDragon.7d2df80482383148501d.png",
+    "static/media/ExodiaTheForbiddenOne.png": "/memory-card-game/static/media/ExodiaTheForbiddenOne.8f7fb7e74cd31c52493a.png",
+    "static/media/ObeliskTheTormentor.png": "/memory-card-game/static/media/ObeliskTheTormentor.1dedcbab0ced8f1de596.png",
+    "static/media/RedEyesBlackDragon.png": "/memory-card-game/static/media/RedEyesBlackDragon.28bb84579d5045949163.png",
+    "static/media/DarkMagicianGirl.png": "/memory-card-game/static/media/DarkMagicianGirl.1e9bbc85fbd9f484e464.png",
+    "static/media/RightLegOfTheForbiddenOne.png": "/memory-card-game/static/media/RightLegOfTheForbiddenOne.4488af73faa35be81978.png",
+    "static/media/LeftArmOfTheForbiddenOne.png": "/memory-card-game/static/media/LeftArmOfTheForbiddenOne.b53ee8b7f7e35ec30be5.png",
+    "static/media/RightArmOfTheForbiddenOne.png": "/memory-card-game/static/media/RightArmOfTheForbiddenOne.e65c8fdf9833c262ac33.png",
+    "static/media/LeftLegOfTheForbiddenOne.png": "/memory-card-game/static/media/LeftLegOfTheForbiddenOne.d106fe970fb67374a00c.png",
+    "index.html": "/memory-card-game/index.html",
+    "main.f2483ab7.css.map": "/memory-card-game/static/css/main.f2483ab7.css.map",
+    "main.47d672f9.js.map": "/memory-card-game/static/js/main.47d672f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2483ab7.css",
+    "static/js/main.47d672f9.js"
+  ]
+}
