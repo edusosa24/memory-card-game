@@ -2,7 +2,7 @@
   "name": "memory-card",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://edusosa24.github.io/memory-card-game"
+  "homepage": "http://edusosa24.github.io/memory-card-game",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
