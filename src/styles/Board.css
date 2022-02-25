@@ -1,0 +1,36 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#board{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: 0 10%;
+  margin: 3rem 0;
+  gap: 8%;
+}
+
+#board > button{
+  width: 10.073rem;
+  height: 14.638rem;
+  border: none;
+  margin: 10px 0;
+  transition-duration: 500ms;
+}
+
+#board > button:hover{
+  transition-duration: 500ms;
+  transform: scale(1.2) perspective(1px);
+  cursor: pointer;
+}
+
+#board > button > img{
+  max-width: 100%;
+  max-height: 100%;
+  box-shadow: 0 0 10px 3px;
+}

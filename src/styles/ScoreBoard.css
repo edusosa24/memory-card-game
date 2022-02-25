@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@600;700;800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#scoreBoard{
+  display: flex;
+  padding: 0 15%;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 5%;
+  height: 3rem;
+}
+
+.highScore, .currentScore{
+  font-family: "Orbitron", sans-serif;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.highScore{
+  color: red;
+}
+
+.currentScore{
+  color: rgb(43, 226, 6);
+}
